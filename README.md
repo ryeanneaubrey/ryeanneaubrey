@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ryeanneaubrey
 - 👀 I’m interested in front end dev, graphic designging
 - 🌱 I’m currently learning Web dev using java programming
-- 📫 yannahmarzan@gmail.com
+- 📫 ryeanneaubrey.marzan@gmail.com
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: funny, friendly person
 
